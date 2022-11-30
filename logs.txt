@@ -1,0 +1,5 @@
+
+11/30/2022 15:37:33
+'charmap' codec can't decode byte 0x9d in position 640: character maps to <undefined>
+11/30/2022 15:40:18
+invalid_grant error processing request
